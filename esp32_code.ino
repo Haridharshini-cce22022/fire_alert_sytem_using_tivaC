@@ -9,15 +9,15 @@
 #define TRIGGER_PIN 4  // Pin for external trigger
 
 // Your WiFi credentials
-#define WIFI_SSID "Galaxy A22"
-#define WIFI_PASSWORD "tbrx1479"
+#define WIFI_SSID "Your device ssid"
+#define WIFI_PASSWORD "Your wifi password"
 
 // Your email credentials and recipient details
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 587
-#define AUTHOR_EMAIL "dharshu6570@gmail.com"
-#define AUTHOR_PASSWORD "nfkk ghvj erlx pqnn"
-#define RECIPIENT_EMAIL "haridharshini.snhy@gmail.com"
+#define AUTHOR_EMAIL "Your gmail ID"
+#define AUTHOR_PASSWORD "gmail app password"
+#define RECIPIENT_EMAIL "Recipient gmil ID"
 
 // Create an object of the class TinyGPSPlus
 TinyGPSPlus gps;
